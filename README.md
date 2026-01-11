@@ -1,3 +1,12 @@
+## Screenshots / Evidence
+All screenshots are in `docs/screenshots/`.
+
+- Agent created and activated (CC Service Agent)
+- Experience Management topic with instructions
+- 5 custom actions added (Flows + Prompt Template)
+- Flow routing updated (Route to ESA → CC Service Agent)
+- Embedded Messaging deployed on Experience Cloud site
+
 # Salesforce Agentforce Project — CC Service Agent
 
 ## Project Summary
