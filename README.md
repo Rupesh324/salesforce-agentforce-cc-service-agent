@@ -1,5 +1,5 @@
 ## Screenshots / Evidence
-All screenshots are in `docs/screenshots/`.
+All screenshots are in `docs/screenshots`.
 
 - Agent created and activated (CC Service Agent)
 - Experience Management topic with instructions
